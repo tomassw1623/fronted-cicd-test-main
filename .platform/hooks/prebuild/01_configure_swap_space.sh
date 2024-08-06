@@ -14,3 +14,4 @@ fi
 /sbin/swapon $SWAPFILE
 /sbin/sysctl vm.swappiness=60
 /bin/npm install -g serve
+# 테스트
